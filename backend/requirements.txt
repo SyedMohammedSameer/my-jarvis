@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+gtts
+pydub
+requests
+ffmpeg
+transformers
+torch
+torchvision
+torchaudio

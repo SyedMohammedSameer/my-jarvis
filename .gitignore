@@ -1,0 +1,19 @@
+# Ignore virtual environments and node_modules
+myenv/
+frontend/node_modules/
+backend/__pycache__/
+*.pyc
+
+# Ignore large model files
+*.dll
+*.lib
+*.exe
+*.so
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
